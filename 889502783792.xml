@@ -1,0 +1,1813 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="en" MessageSchemaVersionId="ern/382" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd">
+	<MessageHeader>
+		<MessageThreadId>20250606145047</MessageThreadId>
+		<MessageId>20250606145047</MessageId>
+		<MessageSender>
+			<PartyId>PADPIDA2011081001L</PartyId>
+			<PartyName>
+				<FullName>Qanawat</FullName>
+			</PartyName>
+		</MessageSender>
+		<MessageRecipient>
+			<PartyId>PADPIDA2012072002I</PartyId>
+			<PartyName>
+				<FullName>Anghami</FullName>
+			</PartyName>
+		</MessageRecipient>
+		<MessageCreatedDateTime>2025-06-06T14:50:47.879Z</MessageCreatedDateTime>
+		<MessageControlType>LiveMessage</MessageControlType>
+	</MessageHeader>
+	<UpdateIndicator>UpdateMessage</UpdateIndicator>
+	<ResourceList>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea149002340</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A2</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>جاني</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H04M42S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>جاني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>جاني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>جاني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>جاني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Gany</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Gany</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel Omar</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>1990-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea149002341</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A3</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>علمي</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H05M38S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>علمي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>علمي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>علمي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>علمي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Almy</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Almy</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel Omar</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>1990-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea149002342</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A4</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>اكمني</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H04M00S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Ekmny</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Ekmny</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>مصطفى ذكي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>مصطفى ذكي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Mostafa Zaki</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>1990-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea149002343</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A5</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>حلو الملامح</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H03M35S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>حلو الملامح</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>حلو الملامح</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>حلو الملامح</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>حلو الملامح</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Helw El Mlameh</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Helw El Mlameh</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>مصطفى ذكي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>مصطفى ذكي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Mostafa Zaki</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>1990-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea149002344</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A6</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>هدي القمر</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H05M07S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>هدي القمر</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>هدي القمر</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>هدي القمر</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>هدي القمر</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Hoda Elamar</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Hoda Elamar</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel Omar</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>1990-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea149002345</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A7</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>سيد الحلوين</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H03M28S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>سيد الحلوين</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>سيد الحلوين</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>سيد الحلوين</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>سيد الحلوين</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Sed El Helwen</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Sed El Helwen</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel Omar</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>1990-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea149002346</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A8</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>مساكين</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H04M32S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>مساكين</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>مساكين</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>مساكين</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>مساكين</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Masakin</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Masakin</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel Omar</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>1990-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea149002347</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A9</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>اول مرة</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H03M48S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>اول مرة</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>اول مرة</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>اول مرة</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>اول مرة</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Awl Marra</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Awl Marra</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel Omar</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>1990-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<Image>
+			<ImageType>FrontCoverImage</ImageType>
+			<ImageId>
+				<ProprietaryId Namespace="DPID:DPID_OF_THE_SENDER">FCI_705474</ProprietaryId>
+			</ImageId>
+			<ResourceReference>A1</ResourceReference>
+			<ImageDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+			</ImageDetailsByTerritory>
+		</Image>
+	</ResourceList>
+	<ReleaseList>
+		<Release>
+			<ReleaseId>
+				<ICPN IsEan="true">889502783792</ICPN>
+			</ReleaseId>
+			<ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>اكمني</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A1</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>Album</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ehab Tawfik</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Ekmny</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Ekmny</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>1</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>2</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>3</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>4</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>5</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>6</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>7</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>8</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+					<ResourceGroupContentItem>
+						<ResourceType>Image</ResourceType>
+						<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A1</ReleaseResourceReference>
+					</ResourceGroupContentItem>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>1990-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea149002340</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R1</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>جاني</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ehab Tawfik</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>جاني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>جاني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>جاني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>جاني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Gany</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Gany</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>1</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>1990-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea149002341</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R2</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>علمي</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ehab Tawfik</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>علمي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>علمي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>علمي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>علمي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Almy</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Almy</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>2</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>1990-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea149002342</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R3</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>اكمني</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ehab Tawfik</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>اكمني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Ekmny</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Ekmny</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>3</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>1990-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea149002343</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R4</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>حلو الملامح</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ehab Tawfik</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>حلو الملامح</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>حلو الملامح</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>حلو الملامح</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>حلو الملامح</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Helw El Mlameh</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Helw El Mlameh</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>4</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>1990-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea149002344</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R5</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>هدي القمر</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ehab Tawfik</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>هدي القمر</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>هدي القمر</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>هدي القمر</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>هدي القمر</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Hoda Elamar</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Hoda Elamar</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>5</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>1990-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea149002345</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R6</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>سيد الحلوين</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ehab Tawfik</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>سيد الحلوين</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>سيد الحلوين</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>سيد الحلوين</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>سيد الحلوين</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Sed El Helwen</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Sed El Helwen</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>6</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>1990-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea149002346</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R7</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>مساكين</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ehab Tawfik</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>مساكين</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>مساكين</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>مساكين</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>مساكين</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Masakin</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Masakin</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>7</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>1990-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea149002347</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R8</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>اول مرة</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ايهاب توفيق</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ehab Tawfik</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>اول مرة</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>اول مرة</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>اول مرة</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>اول مرة</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Awl Marra</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Awl Marra</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ايهاب توفيق</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ehab Tawfik</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>8</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>1990-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+	</ReleaseList>
+	<DealList>
+		<ReleaseDeal>
+			<DealReleaseReference>R0</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R1</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R2</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R3</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R4</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R5</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R6</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R7</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R8</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+	</DealList>
+</ernm:NewReleaseMessage>

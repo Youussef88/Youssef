@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="en" MessageSchemaVersionId="ern/382" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd">
+	<MessageHeader>
+		<MessageThreadId>20250606144912</MessageThreadId>
+		<MessageId>20250606144912</MessageId>
+		<MessageSender>
+			<PartyId>PADPIDA2011081001L</PartyId>
+			<PartyName>
+				<FullName>Qanawat</FullName>
+			</PartyName>
+		</MessageSender>
+		<MessageRecipient>
+			<PartyId>PADPIDA2012072002I</PartyId>
+			<PartyName>
+				<FullName>Anghami</FullName>
+			</PartyName>
+		</MessageRecipient>
+		<MessageCreatedDateTime>2025-06-06T14:49:12.712Z</MessageCreatedDateTime>
+		<MessageControlType>LiveMessage</MessageControlType>
+	</MessageHeader>
+	<UpdateIndicator>UpdateMessage</UpdateIndicator>
+	<ResourceList>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea140601597</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A2</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>بخيرهم</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H08M22S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>بخيرهم</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>بخيرهم</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>بخيرهم</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>بخيرهم</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Bkheirhom</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Bkheirhom</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>صباح اللامي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>صباح اللامي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Sabah Al Lamme</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">6380</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>صباح اللامي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>صباح اللامي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Sabah Al Lamme</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2006-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2006</Year>
+					<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea140601603</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A3</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>الولده</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H03M43S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>الولده</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>الولده</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>الولده</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>الولده</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Al Weldah</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Al Weldah</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>حلا منصور</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حلا منصور</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hala Mansoor</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16771</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>حلا منصور</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حلا منصور</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hala Mansoor</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2006-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2006</Year>
+					<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea140601600</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A4</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>الجوبية</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H05M34S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>الجوبية</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>الجوبية</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>الجوبية</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>الجوبية</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Al Joubieh</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Al Joubieh</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>صبيحة ذياب</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>صبيحة ذياب</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Sabiha Thiab</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16770</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>صبيحة ذياب</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>صبيحة ذياب</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Sabiha Thiab</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2006-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2006</Year>
+					<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea140601602</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A5</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>حلو طولك</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H06M45S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>حلو طولك</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>حلو طولك</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>حلو طولك</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>حلو طولك</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Helou Toulak</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Helou Toulak</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>باسم العلي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>باسم العلي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Basem Al Ali</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">7051</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>باسم العلي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>باسم العلي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Basem Al Ali</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2006-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2006</Year>
+					<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea140601599</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A6</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>بنات اليوم</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H02M22S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>بنات اليوم</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>بنات اليوم</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>بنات اليوم</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>بنات اليوم</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Banat Lyom</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Banat Lyom</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>علي البغدادي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>علي البغدادي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ali Albagdadi</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">7066</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>علي البغدادي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>علي البغدادي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ali Albagdadi</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2006-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2006</Year>
+					<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea140601604</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A7</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>سويتي بيا</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H06M29S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>سويتي بيا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>سويتي بيا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>سويتي بيا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>سويتي بيا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Saweti Biyya</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Saweti Biyya</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>رضا الخياط</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>رضا الخياط</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Reda Alkhaiyat</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">14461</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>رضا الخياط</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>رضا الخياط</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Reda Alkhaiyat</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2006-01-01</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2006</Year>
+					<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<Image>
+			<ImageType>FrontCoverImage</ImageType>
+			<ImageId>
+				<ProprietaryId Namespace="DPID:DPID_OF_THE_SENDER">FCI_154525</ProprietaryId>
+			</ImageId>
+			<ResourceReference>A1</ResourceReference>
+			<ImageDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+			</ImageDetailsByTerritory>
+		</Image>
+	</ResourceList>
+	<ReleaseList>
+		<Release>
+			<ReleaseId>
+				<ICPN IsEan="true">889502623579</ICPN>
+			</ReleaseId>
+			<ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>جلسة عراقية 4</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A1</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>Album</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>صباح اللامي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">صباح اللامي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Sabah Al Lamme</DisplayArtistName>
+				<DisplayArtistName>علي البغدادي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">علي البغدادي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ali Albagdadi</DisplayArtistName>
+				<DisplayArtistName>صبيحة ذياب</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">صبيحة ذياب</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Sabiha Thiab</DisplayArtistName>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>جلسة عراقية 4</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>جلسة عراقية 4</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>جلسة عراقية 4</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>جلسة عراقية 4</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Jalsa Iraqiyah 4</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Jalsa Iraqiyah 4</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>صباح اللامي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>صباح اللامي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Sabah Al Lamme</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">6380</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>علي البغدادي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>علي البغدادي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ali Albagdadi</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">7066</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>صبيحة ذياب</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>صبيحة ذياب</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Sabiha Thiab</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16770</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>1</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>5</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>3</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>4</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>2</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>6</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+					<ResourceGroupContentItem>
+						<ResourceType>Image</ResourceType>
+						<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A1</ReleaseResourceReference>
+					</ResourceGroupContentItem>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2006-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2006</Year>
+				<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2006</Year>
+				<CLineText>Al Awtar Al Zahabia - 2006</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea140601597</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R1</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>بخيرهم</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>صباح اللامي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">صباح اللامي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Sabah Al Lamme</DisplayArtistName>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>بخيرهم</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>بخيرهم</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>بخيرهم</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>بخيرهم</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Bkheirhom</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Bkheirhom</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>صباح اللامي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>صباح اللامي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Sabah Al Lamme</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">6380</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>1</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2006-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2006</Year>
+				<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2006</Year>
+				<CLineText>Al Awtar Al Zahabia - 2006</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea140601603</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R2</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>الولده</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>حلا منصور</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">حلا منصور</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Hala Mansoor</DisplayArtistName>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>الولده</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>الولده</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>الولده</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>الولده</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Al Weldah</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Al Weldah</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>حلا منصور</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حلا منصور</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hala Mansoor</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16771</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>5</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2006-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2006</Year>
+				<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2006</Year>
+				<CLineText>Al Awtar Al Zahabia - 2006</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea140601600</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R3</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>الجوبية</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>صبيحة ذياب</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">صبيحة ذياب</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Sabiha Thiab</DisplayArtistName>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>الجوبية</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>الجوبية</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>الجوبية</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>الجوبية</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Al Joubieh</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Al Joubieh</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>صبيحة ذياب</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>صبيحة ذياب</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Sabiha Thiab</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">16770</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>3</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2006-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2006</Year>
+				<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2006</Year>
+				<CLineText>Al Awtar Al Zahabia - 2006</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea140601602</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R4</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>حلو طولك</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>باسم العلي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">باسم العلي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Basem Al Ali</DisplayArtistName>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>حلو طولك</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>حلو طولك</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>حلو طولك</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>حلو طولك</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Helou Toulak</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Helou Toulak</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>باسم العلي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>باسم العلي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Basem Al Ali</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">7051</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>4</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2006-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2006</Year>
+				<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2006</Year>
+				<CLineText>Al Awtar Al Zahabia - 2006</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea140601599</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R5</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>بنات اليوم</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>علي البغدادي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">علي البغدادي</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ali Albagdadi</DisplayArtistName>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>بنات اليوم</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>بنات اليوم</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>بنات اليوم</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>بنات اليوم</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Banat Lyom</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Banat Lyom</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>علي البغدادي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>علي البغدادي</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ali Albagdadi</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">7066</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>2</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2006-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2006</Year>
+				<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2006</Year>
+				<CLineText>Al Awtar Al Zahabia - 2006</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea140601604</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R6</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>سويتي بيا</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>رضا الخياط</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">رضا الخياط</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Reda Alkhaiyat</DisplayArtistName>
+				<LabelName>Al Awtar Al Zahabia</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>سويتي بيا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>سويتي بيا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>سويتي بيا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>سويتي بيا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Saweti Biyya</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Saweti Biyya</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>رضا الخياط</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>رضا الخياط</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Reda Alkhaiyat</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">14461</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>6</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Khaliji</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2006-01-01</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2006</Year>
+				<PLineText>Al Awtar Al Zahabia - 2006</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2006</Year>
+				<CLineText>Al Awtar Al Zahabia - 2006</CLineText>
+			</CLine>
+		</Release>
+	</ReleaseList>
+	<DealList>
+		<ReleaseDeal>
+			<DealReleaseReference>R0</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R1</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R2</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R3</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R4</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R5</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R6</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+	</DealList>
+</ernm:NewReleaseMessage>

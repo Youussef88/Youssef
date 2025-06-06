@@ -1,0 +1,1806 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="en" MessageSchemaVersionId="ern/382" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd">
+	<MessageHeader>
+		<MessageThreadId>20250606145048</MessageThreadId>
+		<MessageId>20250606145048</MessageId>
+		<MessageSender>
+			<PartyId>PADPIDA2011081001L</PartyId>
+			<PartyName>
+				<FullName>Qanawat</FullName>
+			</PartyName>
+		</MessageSender>
+		<MessageRecipient>
+			<PartyId>PADPIDA2012072002I</PartyId>
+			<PartyName>
+				<FullName>Anghami</FullName>
+			</PartyName>
+		</MessageRecipient>
+		<MessageCreatedDateTime>2025-06-06T14:50:48.829Z</MessageCreatedDateTime>
+		<MessageControlType>LiveMessage</MessageControlType>
+	</MessageHeader>
+	<UpdateIndicator>UpdateMessage</UpdateIndicator>
+	<ResourceList>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705246</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A2</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>مين سرق العمود</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H01M37S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Men Sarak El Amod</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Men Sarak El Amod</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705247</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A3</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>لولو</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H02M26S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>لولو</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>لولو</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>لولو</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>لولو</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Lolo</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Lolo</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705248</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A4</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>النمل</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H04M06S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>النمل</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>النمل</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>النمل</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>النمل</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Elnaml</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Elnaml</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705249</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A5</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>الملحن</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H07M05S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>الملحن</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>الملحن</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>الملحن</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>الملحن</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>El Molhen</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>El Molhen</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705250</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A6</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>النونه</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H02M14S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>النونه</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>النونه</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>النونه</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>النونه</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>El Nona</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>El Nona</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705251</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A7</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>فوزي</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H01M53S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>فوزي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>فوزي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>فوزي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>فوزي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Fawzy</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Fawzy</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705252</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A8</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>احنا الشباب</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H02M51S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>احنا الشباب</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>احنا الشباب</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>احنا الشباب</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>احنا الشباب</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Ehna El Shabab</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Ehna El Shabab</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705253</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A9</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>شيبسي</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H03M18S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>شيبسي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>شيبسي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>شيبسي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>شيبسي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Shibsy</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Shibsy</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705254</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A10</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>شيكوبكا</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H01M46S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>شيكوبكا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>شيكوبكا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>شيكوبكا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>شيكوبكا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Shikobaka</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Shikobaka</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<Image>
+			<ImageType>FrontCoverImage</ImageType>
+			<ImageId>
+				<ProprietaryId Namespace="DPID:DPID_OF_THE_SENDER">FCI_706002</ProprietaryId>
+			</ImageId>
+			<ResourceReference>A1</ResourceReference>
+			<ImageDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+			</ImageDetailsByTerritory>
+		</Image>
+	</ResourceList>
+	<ReleaseList>
+		<Release>
+			<ReleaseId>
+				<ICPN IsEan="true">889502783822</ICPN>
+			</ReleaseId>
+			<ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>مين سرق العمود</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A1</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>Album</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Men Sarak El Amod</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Men Sarak El Amod</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>1</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>2</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>3</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>4</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>5</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>6</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>7</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>8</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>9</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+					<ResourceGroupContentItem>
+						<ResourceType>Image</ResourceType>
+						<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A1</ReleaseResourceReference>
+					</ResourceGroupContentItem>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705246</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R1</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>مين سرق العمود</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>مين سرق العمود</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Men Sarak El Amod</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Men Sarak El Amod</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>1</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705247</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R2</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>لولو</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>لولو</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>لولو</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>لولو</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>لولو</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Lolo</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Lolo</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>2</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705248</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R3</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>النمل</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>النمل</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>النمل</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>النمل</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>النمل</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Elnaml</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Elnaml</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>3</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705249</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R4</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>الملحن</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>الملحن</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>الملحن</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>الملحن</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>الملحن</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>El Molhen</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>El Molhen</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>4</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705250</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R5</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>النونه</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>النونه</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>النونه</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>النونه</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>النونه</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>El Nona</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>El Nona</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>5</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705251</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R6</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>فوزي</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>فوزي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>فوزي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>فوزي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>فوزي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Fawzy</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Fawzy</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>6</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705252</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R7</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>احنا الشباب</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>احنا الشباب</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>احنا الشباب</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>احنا الشباب</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>احنا الشباب</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Ehna El Shabab</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Ehna El Shabab</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>7</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705253</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R8</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>شيبسي</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>شيبسي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>شيبسي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>شيبسي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>شيبسي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Shibsy</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Shibsy</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>8</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705254</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R9</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>شيكوبكا</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">عادل الفار</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Adel El Far</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>شيكوبكا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>شيكوبكا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>شيكوبكا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>شيكوبكا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Shikobaka</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Shikobaka</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل الفار</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel El Far</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121413</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>9</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+	</ReleaseList>
+	<DealList>
+		<ReleaseDeal>
+			<DealReleaseReference>R0</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R1</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R2</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R3</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R4</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R5</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R6</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R7</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R8</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R9</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+	</DealList>
+</ernm:NewReleaseMessage>

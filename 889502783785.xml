@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/382" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" LanguageAndScriptCode="en" MessageSchemaVersionId="ern/382" xs:schemaLocation="http://ddex.net/xml/ern/382 http://ddex.net/xml/ern/382/release-notification.xsd">
+	<MessageHeader>
+		<MessageThreadId>20250606145047</MessageThreadId>
+		<MessageId>20250606145047</MessageId>
+		<MessageSender>
+			<PartyId>PADPIDA2011081001L</PartyId>
+			<PartyName>
+				<FullName>Qanawat</FullName>
+			</PartyName>
+		</MessageSender>
+		<MessageRecipient>
+			<PartyId>PADPIDA2012072002I</PartyId>
+			<PartyName>
+				<FullName>Anghami</FullName>
+			</PartyName>
+		</MessageRecipient>
+		<MessageCreatedDateTime>2025-06-06T14:50:47.134Z</MessageCreatedDateTime>
+		<MessageControlType>LiveMessage</MessageControlType>
+	</MessageHeader>
+	<UpdateIndicator>UpdateMessage</UpdateIndicator>
+	<ResourceList>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705241</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A2</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>عوالي</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H03M40S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Awallya</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Awallya</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>عبد الرحمن أبو سنه</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عبد الرحمن أبو سنه</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Abed El Rahman Abo Sena</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705242</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A3</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>ياما لامو الناس علينا</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H04M13S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>ياما لامو الناس علينا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>ياما لامو الناس علينا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>ياما لامو الناس علينا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>ياما لامو الناس علينا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Yama Lamo El Nas Alena</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Yama Lamo El Nas Alena</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705243</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A4</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>هاونتيني</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H04M31S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>هاونتيني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>هاونتيني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>هاونتيني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>هاونتيني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Hawenteny</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Hawenteny</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705244</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A5</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>ياليل</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H05M43S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>ياليل</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>ياليل</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>ياليل</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>ياليل</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Ya Lail</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Ya Lail</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<SoundRecording>
+			<SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+			<SoundRecordingId>
+				<ISRC>aea141705245</ISRC>
+			</SoundRecordingId>
+			<ResourceReference>A6</ResourceReference>
+			<ReferenceTitle>
+				<TitleText>يا العوافي</TitleText>
+			</ReferenceTitle>
+			<LanguageOfPerformance>ar</LanguageOfPerformance>
+			<Duration>PT00H04M22S</Duration>
+			<SoundRecordingDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<Title TitleType="FormalTitle">
+					<TitleText>يا العوافي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>يا العوافي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>يا العوافي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>يا العوافي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Ya El Awafey</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Ya El Awafey</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ResourceContributor>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<ResourceContributorRole>MainArtist</ResourceContributorRole>
+				</ResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>عادل عمر</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Adel Omar</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Lyricist</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<IndirectResourceContributor>
+					<PartyName>
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>حميد الشاعرى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Hamid El Shaary</FullName>
+					</PartyName>
+					<IndirectResourceContributorRole>Composer</IndirectResourceContributorRole>
+				</IndirectResourceContributor>
+				<LabelName>Sonar Salam</LabelName>
+				<RightsController>
+					<PartyName>
+						<FullName>Qanawat</FullName>
+					</PartyName>
+					<RightsControllerRole>RightsController</RightsControllerRole>
+					<RightSharePercentage>100.00</RightSharePercentage>
+				</RightsController>
+				<OriginalResourceReleaseDate>2017-01-08</OriginalResourceReleaseDate>
+				<PLine>
+					<Year>2017</Year>
+					<PLineText>2017 - Sonar Salam</PLineText>
+				</PLine>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+			</SoundRecordingDetailsByTerritory>
+		</SoundRecording>
+		<Image>
+			<ImageType>FrontCoverImage</ImageType>
+			<ImageId>
+				<ProprietaryId Namespace="DPID:DPID_OF_THE_SENDER">FCI_706003</ProprietaryId>
+			</ImageId>
+			<ResourceReference>A1</ResourceReference>
+			<ImageDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+			</ImageDetailsByTerritory>
+		</Image>
+	</ResourceList>
+	<ReleaseList>
+		<Release>
+			<ReleaseId>
+				<ICPN IsEan="true">889502783785</ICPN>
+			</ReleaseId>
+			<ReleaseReference>R0</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>عوالي</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+				<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A1</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>Album</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ibrahim Fahmy</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Awallya</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Awallya</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>1</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>2</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>3</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>4</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+						<ResourceGroupContentItem>
+							<SequenceNumber>5</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+					<ResourceGroupContentItem>
+						<ResourceType>Image</ResourceType>
+						<ReleaseResourceReference ReleaseResourceType="SecondaryResource">A1</ReleaseResourceReference>
+					</ResourceGroupContentItem>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705241</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R1</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>عوالي</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ibrahim Fahmy</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>عوالي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Awallya</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Awallya</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>1</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705242</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R2</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>ياما لامو الناس علينا</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ibrahim Fahmy</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>ياما لامو الناس علينا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>ياما لامو الناس علينا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>ياما لامو الناس علينا</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>ياما لامو الناس علينا</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Yama Lamo El Nas Alena</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Yama Lamo El Nas Alena</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>2</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705243</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R3</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>هاونتيني</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ibrahim Fahmy</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>هاونتيني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>هاونتيني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>هاونتيني</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>هاونتيني</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Hawenteny</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Hawenteny</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>3</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705244</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R4</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>ياليل</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ibrahim Fahmy</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>ياليل</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>ياليل</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>ياليل</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>ياليل</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Ya Lail</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Ya Lail</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>4</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+		<Release>
+			<ReleaseId>
+				<ISRC>aea141705245</ISRC>
+			</ReleaseId>
+			<ReleaseReference>R5</ReleaseReference>
+			<ReferenceTitle>
+				<TitleText>يا العوافي</TitleText>
+			</ReferenceTitle>
+			<ReleaseResourceReferenceList>
+				<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+			</ReleaseResourceReferenceList>
+			<ReleaseType>TrackRelease</ReleaseType>
+			<ReleaseDetailsByTerritory>
+				<TerritoryCode>Worldwide</TerritoryCode>
+				<DisplayArtistName>ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="ar">ابراهيم فهمى</DisplayArtistName>
+				<DisplayArtistName LanguageAndScriptCode="en">Ibrahim Fahmy</DisplayArtistName>
+				<LabelName>Sonar Salam</LabelName>
+				<Title TitleType="FormalTitle">
+					<TitleText>يا العوافي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle">
+					<TitleText>يا العوافي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="ar">
+					<TitleText>يا العوافي</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="ar">
+					<TitleText>يا العوافي</TitleText>
+				</Title>
+				<Title TitleType="FormalTitle" LanguageAndScriptCode="en">
+					<TitleText>Ya El Awafey</TitleText>
+				</Title>
+				<Title TitleType="DisplayTitle" LanguageAndScriptCode="en">
+					<TitleText>Ya El Awafey</TitleText>
+				</Title>
+				<DisplayArtist>
+					<PartyName>
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="ar">
+						<FullName>ابراهيم فهمى</FullName>
+					</PartyName>
+					<PartyName LanguageAndScriptCode="en">
+						<FullName>Ibrahim Fahmy</FullName>
+					</PartyName>
+					<PartyId Namespace="DPID:PADPIDA2011081001L">121414</PartyId>
+					<ArtistRole>MainArtist</ArtistRole>
+				</DisplayArtist>
+				<ParentalWarningType>NotExplicit</ParentalWarningType>
+				<ResourceGroup>
+					<ResourceGroup>
+						<SequenceNumber>1</SequenceNumber>
+						<ResourceGroupContentItem>
+							<SequenceNumber>5</SequenceNumber>
+							<ResourceType>SoundRecording</ResourceType>
+							<ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+						</ResourceGroupContentItem>
+					</ResourceGroup>
+				</ResourceGroup>
+				<Genre>
+					<GenreText>Arabic</GenreText>
+				</Genre>
+				<OriginalReleaseDate>2017-01-08</OriginalReleaseDate>
+			</ReleaseDetailsByTerritory>
+			<PLine>
+				<Year>2017</Year>
+				<PLineText>2017 - Sonar Salam</PLineText>
+			</PLine>
+			<CLine>
+				<Year>2017</Year>
+				<CLineText>2017 - Sonar Salam</CLineText>
+			</CLine>
+		</Release>
+	</ReleaseList>
+	<DealList>
+		<ReleaseDeal>
+			<DealReleaseReference>R0</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R1</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R2</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R3</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R4</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+		<ReleaseDeal>
+			<DealReleaseReference>R5</DealReleaseReference>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>SubscriptionModel</CommercialModelType>
+					<Usage>
+						<UseType>OnDemandStream</UseType>
+						<UseType>ConditionalDownload</UseType>
+						<UseType>NonInteractiveStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+			<Deal>
+				<DealTerms>
+					<CommercialModelType>AdvertisementSupportedModel</CommercialModelType>
+					<Usage>
+						<UseType>NonInteractiveStream</UseType>
+						<UseType>OnDemandStream</UseType>
+					</Usage>
+					<TerritoryCode>Worldwide</TerritoryCode>
+					<ValidityPeriod>
+						<EndDate>2025-06-06</EndDate>
+					</ValidityPeriod>
+				</DealTerms>
+			</Deal>
+		</ReleaseDeal>
+	</DealList>
+</ernm:NewReleaseMessage>
