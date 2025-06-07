@@ -1,0 +1,860 @@
+{
+  "Name": "delivery_package_automation_Version1",
+  "CreationDate": "2025-6-7",
+  "Commands": [
+    {
+      "Command": "csvRead",
+      "Target": "delivery_package_automation_Version1.csv",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "http://10.33.4.10/Qanawat.DAM/Forms/Delivery/DeliveryPackage.aspx",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ctl00_MainContent_RadComboBoxCustomer_Input",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ctl00_MainContent_RadComboBoxCustomer_Input",
+      "Value": "${!COL1}",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ctl00_MainContent_RadComboBoxService_Input",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ctl00_MainContent_RadComboBoxService_Input",
+      "Value": "${!COL2}",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ctl00_MainContent_RadComboBoxBatch_Input",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ctl00_MainContent_RadComboBoxBatch_Input",
+      "Value": "${!COL3}",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_txtSearchTerritory",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_txtSearchTerritory",
+      "Value": "${!COL4}",
+      "Description": ""
+    },
+    {
+      "Command": "if",
+      "Target": "${!COL5} == 'Yes'",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chkIsValidation",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "end",
+      "Target": "",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_txtOtherField",
+      "Value": "${!COL6}",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_btnPartialDownload",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "open",
+      "Target": "http://10.33.4.10/Qanawat.DAM/Forms/Delivery/DeliveryPackage.aspx",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ctl00_MainContent_RadComboBoxCustomer_Input",
+      "Value": "",
+      "Targets": [
+        "id=ctl00_MainContent_RadComboBoxCustomer_Input",
+        "name=ctl00$MainContent$RadComboBoxCustomer",
+        "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxCustomer_Input\"]",
+        "xpath=//input[@id='ctl00_MainContent_RadComboBoxCustomer_Input']",
+        "xpath=//td/input",
+        "css=#ctl00_MainContent_RadComboBoxCustomer_Input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ctl00_MainContent_RadComboBoxCustomer_Input",
+      "Value": "SPO",
+      "Targets": [
+        "id=ctl00_MainContent_RadComboBoxCustomer_Input",
+        "name=ctl00$MainContent$RadComboBoxCustomer",
+        "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxCustomer_Input\"]",
+        "xpath=//input[@id='ctl00_MainContent_RadComboBoxCustomer_Input']",
+        "xpath=//td/input",
+        "css=#ctl00_MainContent_RadComboBoxCustomer_Input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ctl00_MainContent_RadComboBoxCustomer_Input",
+      "Value": "Spotify",
+      "Targets": [
+        "id=ctl00_MainContent_RadComboBoxCustomer_Input",
+        "name=ctl00$MainContent$RadComboBoxCustomer",
+        "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxCustomer_Input\"]",
+        "xpath=//input[@id='ctl00_MainContent_RadComboBoxCustomer_Input']",
+        "xpath=//td/input",
+        "css=#ctl00_MainContent_RadComboBoxCustomer_Input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxCustomer_DropDown\"]/div/ul/li[19]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxCustomer_DropDown\"]/div/ul/li[19]",
+        "xpath=//li[19]",
+        "css=#ctl00_MainContent_RadComboBoxCustomer_DropDown > div > ul > li.rcbHovered"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=ctl00_MainContent_RadComboBoxBatch_Input",
+      "Value": "",
+      "Targets": [
+        "id=ctl00_MainContent_RadComboBoxBatch_Input",
+        "name=ctl00$MainContent$RadComboBoxBatch",
+        "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxBatch_Input\"]",
+        "xpath=//input[@id='ctl00_MainContent_RadComboBoxBatch_Input']",
+        "xpath=//td[2]/div/div/table/tbody/tr/td/input",
+        "css=#ctl00_MainContent_RadComboBoxBatch_Input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ctl00_MainContent_RadComboBoxBatch_Input",
+      "Value": "19",
+      "Targets": [
+        "id=ctl00_MainContent_RadComboBoxBatch_Input",
+        "name=ctl00$MainContent$RadComboBoxBatch",
+        "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxBatch_Input\"]",
+        "xpath=//input[@id='ctl00_MainContent_RadComboBoxBatch_Input']",
+        "xpath=//td[2]/div/div/table/tbody/tr/td/input",
+        "css=#ctl00_MainContent_RadComboBoxBatch_Input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ctl00_MainContent_RadComboBoxBatch_Input",
+      "Value": "19",
+      "Targets": [
+        "id=ctl00_MainContent_RadComboBoxBatch_Input",
+        "name=ctl00$MainContent$RadComboBoxBatch",
+        "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxBatch_Input\"]",
+        "xpath=//input[@id='ctl00_MainContent_RadComboBoxBatch_Input']",
+        "xpath=//td[2]/div/div/table/tbody/tr/td/input",
+        "css=#ctl00_MainContent_RadComboBoxBatch_Input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxBatch_DropDown\"]/div/ul/li[20]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"ctl00_MainContent_RadComboBoxBatch_DropDown\"]/div/ul/li[20]",
+        "xpath=//li[20]",
+        "css=#ctl00_MainContent_RadComboBoxBatch_DropDown > div > ul > li.rcbHovered"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_txtSearchTerritory",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_txtSearchTerritory",
+        "name=ctl00$MainContent$chklistState$txtSearchTerritory",
+        "xpath=//*[@id=\"MainContent_chklistState_txtSearchTerritory\"]",
+        "xpath=//input[@id='MainContent_chklistState_txtSearchTerritory']",
+        "xpath=//td/div/div/div[2]/input",
+        "css=#MainContent_chklistState_txtSearchTerritory"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_0",
+      "Value": "6",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_0",
+        "name=ctl00$MainContent$chklistState$chkListNames$0",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_0\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_0']",
+        "xpath=//div[2]/div/table/tbody/tr/td/input",
+        "css=#MainContent_chklistState_chkListNames_0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr/td/label",
+        "xpath=//div[2]/div/table/tbody/tr/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(1) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_0",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_0",
+        "name=ctl00$MainContent$chklistState$chkListNames$0",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_0\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_0']",
+        "xpath=//div[2]/div/table/tbody/tr/td/input",
+        "css=#MainContent_chklistState_chkListNames_0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_1",
+      "Value": "16",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_1",
+        "name=ctl00$MainContent$chklistState$chkListNames$1",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_1\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_1']",
+        "xpath=//div[2]/div/table/tbody/tr[2]/td/input",
+        "css=#MainContent_chklistState_chkListNames_1"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[2]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[2]/td/label",
+        "xpath=//div[2]/div/table/tbody/tr[2]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(2) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_1",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_1",
+        "name=ctl00$MainContent$chklistState$chkListNames$1",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_1\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_1']",
+        "xpath=//div[2]/div/table/tbody/tr[2]/td/input",
+        "css=#MainContent_chklistState_chkListNames_1"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_2",
+      "Value": "5",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_2",
+        "name=ctl00$MainContent$chklistState$chkListNames$2",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_2\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_2']",
+        "xpath=//tr[3]/td/input",
+        "css=#MainContent_chklistState_chkListNames_2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[3]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[3]/td/label",
+        "xpath=//tr[3]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(3) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_2",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_2",
+        "name=ctl00$MainContent$chklistState$chkListNames$2",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_2\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_2']",
+        "xpath=//tr[3]/td/input",
+        "css=#MainContent_chklistState_chkListNames_2"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_3",
+      "Value": "7",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_3",
+        "name=ctl00$MainContent$chklistState$chkListNames$3",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_3\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_3']",
+        "xpath=//tr[4]/td/input",
+        "css=#MainContent_chklistState_chkListNames_3"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_4",
+      "Value": "1",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_4",
+        "name=ctl00$MainContent$chklistState$chkListNames$4",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_4\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_4']",
+        "xpath=//tr[5]/td/input",
+        "css=#MainContent_chklistState_chkListNames_4"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[4]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[4]/td/label",
+        "xpath=//tr[4]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(4) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_3",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_3",
+        "name=ctl00$MainContent$chklistState$chkListNames$3",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_3\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_3']",
+        "xpath=//tr[4]/td/input",
+        "css=#MainContent_chklistState_chkListNames_3"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[5]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[5]/td/label",
+        "xpath=//tr[5]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(5) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_4",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_4",
+        "name=ctl00$MainContent$chklistState$chkListNames$4",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_4\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_4']",
+        "xpath=//tr[5]/td/input",
+        "css=#MainContent_chklistState_chkListNames_4"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_5",
+      "Value": "3",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_5",
+        "name=ctl00$MainContent$chklistState$chkListNames$5",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_5\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_5']",
+        "xpath=//tr[6]/td/input",
+        "css=#MainContent_chklistState_chkListNames_5"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[6]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[6]/td/label",
+        "xpath=//tr[6]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(6) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_5",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_5",
+        "name=ctl00$MainContent$chklistState$chkListNames$5",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_5\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_5']",
+        "xpath=//tr[6]/td/input",
+        "css=#MainContent_chklistState_chkListNames_5"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_6",
+      "Value": "13",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_6",
+        "name=ctl00$MainContent$chklistState$chkListNames$6",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_6\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_6']",
+        "xpath=//tr[7]/td/input",
+        "css=#MainContent_chklistState_chkListNames_6"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[7]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[7]/td/label",
+        "xpath=//tr[7]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(7) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_6",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_6",
+        "name=ctl00$MainContent$chklistState$chkListNames$6",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_6\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_6']",
+        "xpath=//tr[7]/td/input",
+        "css=#MainContent_chklistState_chkListNames_6"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_7",
+      "Value": "9",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_7",
+        "name=ctl00$MainContent$chklistState$chkListNames$7",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_7\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_7']",
+        "xpath=//tr[8]/td/input",
+        "css=#MainContent_chklistState_chkListNames_7"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[8]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[8]/td/label",
+        "xpath=//tr[8]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(8) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_7",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_7",
+        "name=ctl00$MainContent$chklistState$chkListNames$7",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_7\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_7']",
+        "xpath=//tr[8]/td/input",
+        "css=#MainContent_chklistState_chkListNames_7"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_8",
+      "Value": "8",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_8",
+        "name=ctl00$MainContent$chklistState$chkListNames$8",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_8\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_8']",
+        "xpath=//tr[9]/td/input",
+        "css=#MainContent_chklistState_chkListNames_8"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[9]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[9]/td/label",
+        "xpath=//tr[9]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(9) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_8",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_8",
+        "name=ctl00$MainContent$chklistState$chkListNames$8",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_8\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_8']",
+        "xpath=//tr[9]/td/input",
+        "css=#MainContent_chklistState_chkListNames_8"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_9",
+      "Value": "15",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_9",
+        "name=ctl00$MainContent$chklistState$chkListNames$9",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_9\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_9']",
+        "xpath=//tr[10]/td/input",
+        "css=#MainContent_chklistState_chkListNames_9"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[10]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[10]/td/label",
+        "xpath=//tr[10]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(10) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_9",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_9",
+        "name=ctl00$MainContent$chklistState$chkListNames$9",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_9\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_9']",
+        "xpath=//tr[10]/td/input",
+        "css=#MainContent_chklistState_chkListNames_9"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_11",
+      "Value": "12",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_11",
+        "name=ctl00$MainContent$chklistState$chkListNames$11",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_11\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_11']",
+        "xpath=//tr[12]/td/input",
+        "css=#MainContent_chklistState_chkListNames_11"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[12]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[12]/td/label",
+        "xpath=//tr[12]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(12) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_11",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_11",
+        "name=ctl00$MainContent$chklistState$chkListNames$11",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_11\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_11']",
+        "xpath=//tr[12]/td/input",
+        "css=#MainContent_chklistState_chkListNames_11"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_12",
+      "Value": "11",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_12",
+        "name=ctl00$MainContent$chklistState$chkListNames$12",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_12\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_12']",
+        "xpath=//tr[13]/td/input",
+        "css=#MainContent_chklistState_chkListNames_12"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[13]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[13]/td/label",
+        "xpath=//tr[13]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(13) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_12",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_12",
+        "name=ctl00$MainContent$chklistState$chkListNames$12",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_12\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_12']",
+        "xpath=//tr[13]/td/input",
+        "css=#MainContent_chklistState_chkListNames_12"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_13",
+      "Value": "4",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_13",
+        "name=ctl00$MainContent$chklistState$chkListNames$13",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_13\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_13']",
+        "xpath=//tr[14]/td/input",
+        "css=#MainContent_chklistState_chkListNames_13"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[14]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[14]/td/label",
+        "xpath=//tr[14]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(14) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_13",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_13",
+        "name=ctl00$MainContent$chklistState$chkListNames$13",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_13\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_13']",
+        "xpath=//tr[14]/td/input",
+        "css=#MainContent_chklistState_chkListNames_13"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_14",
+      "Value": "14",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_14",
+        "name=ctl00$MainContent$chklistState$chkListNames$14",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_14\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_14']",
+        "xpath=//tr[15]/td/input",
+        "css=#MainContent_chklistState_chkListNames_14"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_15",
+      "Value": "10",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_15",
+        "name=ctl00$MainContent$chklistState$chkListNames$15",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_15\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_15']",
+        "xpath=//tr[16]/td/input",
+        "css=#MainContent_chklistState_chkListNames_15"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[15]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[15]/td/label",
+        "xpath=//tr[15]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(15) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_14",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_14",
+        "name=ctl00$MainContent$chklistState$chkListNames$14",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_14\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_14']",
+        "xpath=//tr[15]/td/input",
+        "css=#MainContent_chklistState_chkListNames_14"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[16]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[16]/td/label",
+        "xpath=//tr[16]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(16) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_15",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_15",
+        "name=ctl00$MainContent$chklistState$chkListNames$15",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_15\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_15']",
+        "xpath=//tr[16]/td/input",
+        "css=#MainContent_chklistState_chkListNames_15"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=MainContent_chklistState_chkListNames_16",
+      "Value": "2",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_16",
+        "name=ctl00$MainContent$chklistState$chkListNames$16",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_16\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_16']",
+        "xpath=//tr[17]/td/input",
+        "css=#MainContent_chklistState_chkListNames_16"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[17]/td/label",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames\"]/tbody/tr[17]/td/label",
+        "xpath=//tr[17]/td/label",
+        "css=#MainContent_chklistState_chkListNames > tbody > tr:nth-child(17) > td > label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_chklistState_chkListNames_16",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_chklistState_chkListNames_16",
+        "name=ctl00$MainContent$chklistState$chkListNames$16",
+        "xpath=//*[@id=\"MainContent_chklistState_chkListNames_16\"]",
+        "xpath=//input[@id='MainContent_chklistState_chkListNames_16']",
+        "xpath=//tr[17]/td/input",
+        "css=#MainContent_chklistState_chkListNames_16"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=MainContent_btnPartialDownload",
+      "Value": "",
+      "Targets": [
+        "id=MainContent_btnPartialDownload",
+        "name=ctl00$MainContent$btnPartialDownload",
+        "xpath=//*[@id=\"MainContent_btnPartialDownload\"]",
+        "xpath=//input[@id='MainContent_btnPartialDownload']",
+        "xpath=//td[4]/table/tbody/tr/td[2]/div/input",
+        "css=#MainContent_btnPartialDownload"
+      ],
+      "Description": ""
+    }
+  ]
+}
